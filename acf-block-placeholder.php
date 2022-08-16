@@ -13,10 +13,10 @@
  * Text Domain:       acf-block-placeholder
  */
 
-// TO-DO: Fix how repeater blocks are handled so placeholder goes away
-// without you having to update the post
-
 class ACF_Block_Placeholder {
+
+	// TO-DO: Fix how repeater blocks are handled so placeholder goes away
+	// without you having to update the post.
 
 	/**
 	 * Static property to hold our singleton instance
