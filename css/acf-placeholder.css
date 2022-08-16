@@ -1,0 +1,8 @@
+.acf-block-placeholder {
+	align-items: center;
+	background-color: rgba(204, 204, 204, 0.5);
+	display: flex;
+	justify-content: center;
+	min-height: 250px;
+	text-align: center;
+}
