@@ -13,7 +13,8 @@
  * Text Domain:       acf-block-placeholder
  */
 
-// TO-DO: If ACF isn't active, throw an admin notice
+// TO-DO: Fix how repeater blocks are handled so placeholder goes away
+// without you having to update the post
 
 class ACF_Block_Placeholder {
 
